@@ -1,4 +1,4 @@
-def hello(name = "yourname"):
+def hello(name):
   """hello function
   
   This function takes a string input then returns a sentence with that string inserted in the correct spot.
