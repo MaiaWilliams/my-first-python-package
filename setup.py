@@ -12,12 +12,12 @@ except FileNotFoundError:
 
 # Metadata
 setup(
-  name = "Type here the name of your package",
-  version = 0.0.0.9000,
-  author = "Type here your name",
-  author_email = "Type here your email",
-  description = "Describe here your package in one sentence",
-  license = "Type here what license your package has",
+  name = "maiapy",
+  version = 0.0.0.1000,
+  author = "Maia Williams",
+  author_email = "maia.williams@plus.ac.at",
+  description = "Python code prepared as part of PhD seminar workshop with Luuk on 5 December 2024. How to publish python code using GitHub.",
+  license = "Luuk's license",
   packages = find_packages(),
   install_requires = requirements
 )
