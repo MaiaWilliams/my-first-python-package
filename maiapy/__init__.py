@@ -1,1 +1,1 @@
-from hello import hello
+from maiapy import hello
