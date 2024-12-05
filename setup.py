@@ -13,7 +13,7 @@ except FileNotFoundError:
 # Metadata
 setup(
   name = "maiapy",
-  version = 0.0.0.1000,
+  version = "0.0.0.1000",
   author = "Maia Williams",
   author_email = "maia.williams@plus.ac.at",
   description = "Python code prepared as part of PhD seminar workshop with Luuk on 5 December 2024. How to publish python code using GitHub.",
