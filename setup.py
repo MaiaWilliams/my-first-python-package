@@ -17,7 +17,7 @@ setup(
   author = "Maia Williams",
   author_email = "maia.williams@plus.ac.at",
   description = "Python code prepared as part of PhD seminar workshop with Luuk on 5 December 2024. How to publish python code using GitHub.",
-  license = "Luuk's license",
+  license = "Creative Commons Attribution 4.0 International",
   packages = find_packages(),
   install_requires = requirements
 )
